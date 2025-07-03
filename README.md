@@ -17,7 +17,6 @@ It's designed to showcase personal information, projects, and contact details in
 - Easy to edit and customize
 
 ---
-
 ## 🧱 Technologies Used
 
 - ✅ HTML5
